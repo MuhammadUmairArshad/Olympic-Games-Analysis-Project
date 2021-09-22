@@ -1,3 +1,9 @@
+/*
+Queries used for Olympic Games Analysis Project
+
+*/
+
+
 SELECT
          [ID]
         ,[Name] AS 'Competitor Name' -- Renamed Column
